@@ -1,0 +1,7 @@
+[SNOWFLAKE]
+account = 'asinhva-lh59479'
+user = 'satyamrohit'
+password = 'Satyamrohit123'
+database = 'TRAINING'
+warehouse = 'TRANSFORMING'
+schema = 'TRAINING'
