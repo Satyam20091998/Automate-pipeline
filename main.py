@@ -183,12 +183,12 @@ def main():
     # config = configparser.ConfigParser()
     # config.read('config.ini')
     # Snowflake connection parameters
-    account = 'rnxicum-bs93556'
-    user = 'SMarkam'
-    password = 'Edith@123'
-    database = 'TRAINING'
-    warehouse = 'TRANSFORMING'
-    schema = 'TRAINING'
+    account = '#######'
+    user = '#######'
+    password = '#######'
+    database = '#######'
+    warehouse = '#######'
+    schema = '#######'
 
     # Set flag to avoid multiple triggers in a day
     initialize_flags()
