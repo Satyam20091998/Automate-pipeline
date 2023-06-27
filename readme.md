@@ -1,6 +1,6 @@
 # OBJECTIVE
 
-## The primary goal of this project is to automate the testing process for daily loads. Once the loads are successfully completed and pass the tests, the project aims to trigger the subscription for Tableau, along with sending confirmation emails to the users.
+#### The primary goal of this project is to automate the testing process for daily loads. Once the loads are successfully completed and pass the tests, the project aims to trigger the subscription for Tableau, along with sending confirmation emails to the users.
 
 
 
